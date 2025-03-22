@@ -11,3 +11,18 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 "# ReactGit" 
+
+
+
+echo "# ReactGit" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/RitikaJaiswal123/ReactGit.git
+git push -u origin main
+
+
+git remote add origin https://github.com/RitikaJaiswal123/ReactGit.git
+git branch -M main
+git push -u origin main
